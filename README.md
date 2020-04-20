@@ -4,7 +4,7 @@
 
 ## 자료구조
 0. 자료구조란? [[summary]](./DataStructure/intro.md)
-1. 배열 [[summary]](./DataStructure/array.md)
+1. 배열 [[summary]](./DataStructure/array.ipynb)
 2. 큐
 3. 스택
 4. 연결리스트
