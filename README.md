@@ -7,7 +7,7 @@
 1. 배열 [[summary]](./DataStructure/array.ipynb)
 2. 큐 [[summary]](./DataStructure/queue.ipynb)
 3. 스택
-4. 연결리스트
+4. 연결리스트 [[summary]](./DataStructure/linkedList.ipynb)
 5. 시간복잡도
 6. 해쉬테이블
 7. 트리
